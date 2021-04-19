@@ -1,4 +1,5 @@
 # Car price prediction
+<img src="https://img.shields.io/badge/Build-Complete-brightgreen"> &nbsp <img src="https://img.shields.io/badge/Deployment-Incomplete-red">
 This project was made to learn about the complete life cycle of a data science project. Specially:
 - EDA
 - Feature engineering & Feature selection
