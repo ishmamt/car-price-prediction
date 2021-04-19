@@ -1,10 +1,12 @@
 # Car price prediction
-<img src="https://img.shields.io/badge/Build-Complete-brightgreen"> &nbsp; <img src="https://img.shields.io/badge/Deployment-Incomplete-red"> <br>
+<img src="https://img.shields.io/badge/Build-Complete-brightgreen"> &nbsp; <img src="https://img.shields.io/badge/Deployment-Complete-brightgreen"> <br>
 This project was made to learn about the complete life cycle of a data science project. Specially:
 - EDA
 - Feature engineering & Feature selection
 - Model building & tuning hyperparameters
 - Deployment
+
+Check out the deployed app<a href="https://it-usedcarpricepredict.herokuapp.com/">here</a>.
 
 ## Getting started
 ### Prerequisites
