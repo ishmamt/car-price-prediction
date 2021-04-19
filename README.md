@@ -6,7 +6,7 @@ This project was made to learn about the complete life cycle of a data science p
 - Model building & tuning hyperparameters
 - Deployment
 
-Check out the deployed app<a href="https://it-usedcarpricepredict.herokuapp.com/">here</a>.
+Check out the deployed app <a href="https://it-usedcarpricepredict.herokuapp.com/">here</a>.
 
 ## Getting started
 ### Prerequisites
